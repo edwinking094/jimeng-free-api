@@ -33,19 +33,22 @@ MiniMax（海螺 AI）接口转 API [hailuo-free-api](https://github.com/LLM-Red
 
 ## 目录
 
-- [免责声明](#免责声明)
-- [接入准备](#接入准备)
-  - [多账号接入](#多账号接入)
-- [效果展示](#效果展示)
-- [Docker 部署](#Docker部署)
-  - [Docker-compose 部署](#Docker-compose部署)
-- [Render 部署](#Render部署)
-- [Vercel 部署](#Vercel部署)
-- [原生部署](#原生部署)
-- [推荐使用客户端](#推荐使用客户端)
-- [接口列表](#接口列表)
-  - [对话补全](#对话补全)
-  - [图像生成](#图像生成)
+- [Jimeng AI Free 服务](#jimeng-ai-free-服务)
+  - [目录](#目录)
+  - [免责声明](#免责声明)
+  - [接入准备](#接入准备)
+    - [多账号接入](#多账号接入)
+  - [效果展示](#效果展示)
+  - [Docker 部署](#docker-部署)
+    - [Docker-compose 部署](#docker-compose-部署)
+    - [Render 部署](#render-部署)
+    - [Vercel 部署](#vercel-部署)
+  - [原生部署](#原生部署)
+  - [推荐使用客户端](#推荐使用客户端)
+  - [接口列表](#接口列表)
+    - [对话补全](#对话补全)
+    - [图像生成](#图像生成)
+  - [Star History](#star-history)
 
 ## 免责声明
 
@@ -325,3 +328,5 @@ Authorization: Bearer [sessionid]
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LLM-Red-Team/doubao-free-api&type=Date)](https://star-history.com/#LLM-Red-Team/doubao-free-api&Date)
+
+API: 2ec8031c54d8a702f4de9d1af19c05d3
